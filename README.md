@@ -7,7 +7,7 @@ supportiveness, based on the paper `It’s going to be okay: Measuring Access to
 Support in Online Communities` by Zijian Wang and David Jurgens (in proceedings
 of EMNLP 2018).
 
-See the [project website](http://blablablab.si.umich.edu/support) for full details, including contact information.
+See the [project website](http://blablablab.si.umich.edu/projects/support) for full details, including contact information.
 
 ## Install 
 
